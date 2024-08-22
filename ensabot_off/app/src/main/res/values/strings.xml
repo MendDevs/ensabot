@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ensabot_off</string>
+    <string name="txtMainActivity">Home</string>
+    <string name="HomeHint">Session Name</string>
+    <string name="HomeButton">Start Chat Session</string>
+    <string name="hello_how_can_ensabot_help_you_today">Hello, %1$s , How can ENSABot help you today?!</string>
+</resources>
